@@ -38,7 +38,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>199</Count>
+          <Count>201</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -54,7 +54,7 @@
           <IdeaActionID>CopyPaths</IdeaActionID>
           <ShortCut>'Ctrl+Shift+C'</ShortCut>
           <Description>Copy Path</Description>
-          <Count>31</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Reference">
@@ -534,7 +534,7 @@
           <IdeaActionID>ActivateRunDashboardToolWindow</IdeaActionID>
           <ShortCut>'Shift+R'</ShortCut>
           <Description>Run Dashboard</Description>
-          <Count>776</Count>
+          <Count>778</Count>
         </Item>
       </Statistic>
       <Statistic Action="Set Active Changelist">
@@ -630,7 +630,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>138</Count>
+          <Count>140</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Application'">
@@ -694,7 +694,7 @@
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">

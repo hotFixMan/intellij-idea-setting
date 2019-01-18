@@ -1,0 +1,30 @@
+<toolSet name="External Tools">
+  <tool name="Xshell6" description="ssh tools" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="E:\xshellPlus6\app\Xshell 6\Xshell.exe" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="E:/xshellPlus6/app/Xshell 6" />
+    </exec>
+  </tool>
+  <tool name="KillPid" description="kill pid before app start" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="F:\allProject\csis-ms-server-project\kill_pid.bat" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="F:/allProject/csis-ms-server-project" />
+    </exec>
+  </tool>
+  <tool name="postman" description="request test" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Users\Administrator\AppData\Local\Postman\app-6.7.1\Postman.exe" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/Administrator/AppData/Local/Postman/app-6.7.1" />
+    </exec>
+  </tool>
+  <tool name="redisDesktopManager" description="redis desktop manager" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="E:\Redis_Desktop_Manager\app\rdm.exe" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="E:/Redis_Desktop_Manager/app" />
+    </exec>
+  </tool>
+</toolSet>

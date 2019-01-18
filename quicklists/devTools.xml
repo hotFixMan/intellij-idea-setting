@@ -1,0 +1,5 @@
+<list display="devTools" description="Help rapid development">
+  <action id="Tool_External Tools_Xshell6" />
+  <action id="Tool_External Tools_postman" />
+  <action id="Tool_External Tools_redisDesktopManager" />
+</list>

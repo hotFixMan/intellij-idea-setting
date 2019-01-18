@@ -1,0 +1,56 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="ActivateDBBrowserToolWindow">
+    <keyboard-shortcut first-keystroke="shift d" />
+  </action>
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="shift d" />
+  </action>
+  <action id="ActivateMavenToolWindow">
+    <keyboard-shortcut first-keystroke="shift m" />
+  </action>
+  <action id="ActivateRunDashboardToolWindow">
+    <keyboard-shortcut first-keystroke="shift r" />
+  </action>
+  <action id="ActivateSonarLintToolWindow">
+    <keyboard-shortcut first-keystroke="shift l" second-keystroke="s" />
+  </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+  <action id="QuickList.devTools">
+    <keyboard-shortcut first-keystroke="shift ctrl q" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="ToggleCompletionHintsAction">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
+  <action id="Tool_External Tools_Xshell6">
+    <keyboard-shortcut first-keystroke="shift x" second-keystroke="s" />
+  </action>
+  <action id="Tool_External Tools_postman">
+    <keyboard-shortcut first-keystroke="shift p" />
+  </action>
+  <action id="ToolsMenu">
+    <keyboard-shortcut first-keystroke="shift t" />
+  </action>
+  <action id="VimPluginToggle">
+    <keyboard-shortcut first-keystroke="shift v" />
+  </action>
+  <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
+    <keyboard-shortcut first-keystroke="shift s" />
+  </action>
+</keymap>

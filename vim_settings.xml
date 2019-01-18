@@ -1,0 +1,81 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks>
+      <mark key="M" line="21" column="0" filename="F:/allProject/csis-ms-server-project/csis-mybatis-codegen/templates/demo/router.js" protocol="file" />
+    </globalmarks>
+    <filemarks>
+      <file name="F:/allProject/csis-ms-server-project/csis-mybatis-codegen/templates/demo/router.js" timestamp="1547703597496">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="21" column="59" />
+        <mark key="]" line="21" column="65" />
+        <mark key="." line="21" column="59" />
+      </file>
+      <file name="F:/allProject/csis-ms-server-project/csis-mybatis-codegen/src/main/java/com/royalnu/mybatiscodegen/plugins/PojoViewPlugin.java" timestamp="1547717817496">
+        <mark key="'" line="347" column="91" />
+        <mark key="[" line="347" column="104" />
+        <mark key="]" line="347" column="98" />
+        <mark key="^" line="347" column="98" />
+        <mark key="." line="347" column="98" />
+      </file>
+      <file name="F:/allProject/csis-ms-server-project/csis-mybatis-codegen/codgen-config.xml" timestamp="1547713235919">
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="161" column="16" />
+        <mark key="." line="157" column="0" />
+      </file>
+      <file name="F:/allProject/csis-server-project/csis-module/cm-admin/src/main/java/com/royalnu/core/module/admin/gateway/web/AdminWorkScheduleInfoDetailController.java" timestamp="1544408273873">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1513509164629">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="F:/allProject/csis-ms-server-project/csis-mybatis-codegen/src/main/java/com/royalnu/mybatiscodegen/plugins/WebPlugin.java" timestamp="1547704903792" />
+    </filemarks>
+    <jumps>
+      <jump line="296" column="0" filename="F:/allProject/csis-server-project/csis-module/cm-admin/src/main/java/com/royalnu/core/module/admin/gateway/web/AdminWorkScheduleInfoDetailController.java" />
+      <jump line="0" column="0" filename="F:/allProject/csis-server-project/csis-module/cm-admin/src/main/java/com/royalnu/core/module/admin/gateway/web/AdminWorkScheduleInfoDetailController.java" />
+      <jump line="12" column="0" filename="F:/allProject/csis-ms-server-project/csis-mybatis-codegen/templates/demo/router.js" />
+      <jump line="347" column="91" filename="F:/allProject/csis-ms-server-project/csis-mybatis-codegen/src/main/java/com/royalnu/mybatiscodegen/plugins/PojoViewPlugin.java" />
+    </jumps>
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICA8dGFibGUgdGFibGVOYW1lPSJ0X3VzZXJfaW5mbyIgZG9tYWluT2JqZWN0TmFtZT0iVXNlckluZm8iCiAgICAgICAgICAgICAgIGVuYWJsZUNvdW50QnlFeGFtcGxlPSJmYWxzZSIgZW5hYmxlVXBkYXRlQnlFeGFtcGxlPSJmYWxzZSIKICAgICAgICAgICAgICAgZW5hYmxlRGVsZXRlQnlFeGFtcGxlPSJmYWxzZSIgZW5hYmxlU2VsZWN0QnlFeGFtcGxlPSJmYWxzZSIKICAgICAgICAgICAgICAgc2VsZWN0QnlFeGFtcGxlUXVlcnlJZD0iZmFsc2UiPgogICAgICAgIDwvdGFibGU+Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8dGFibGUgdGFibGVOYW1lPSJ0X3VzZXJfaW5mbyIgZG9tYWluT2JqZWN0TmFtZT0iVXNlckluZm8iCiAgICAgICAgICAgICAgIGVuYWJsZUNvdW50QnlFeGFtcGxlPSJmYWxzZSIgZW5hYmxlVXBkYXRlQnlFeGFtcGxlPSJmYWxzZSIKICAgICAgICAgICAgICAgZW5hYmxlRGVsZXRlQnlFeGFtcGxlPSJmYWxzZSIgZW5hYmxlU2VsZWN0QnlFeGFtcGxlPSJmYWxzZSIKICAgICAgICAgICAgICAgc2VsZWN0QnlFeGFtcGxlUXVlcnlJZD0iZmFsc2UiPgogICAgICAgIDwvdGFibGU+Cg==</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDwsXD4=</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDwsXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDwsXD4=</last-pattern>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDwsXD4=</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

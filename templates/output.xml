@@ -1,0 +1,33 @@
+<templateSet group="output">
+  <template name="olo" value="Long offset,Long limit,String orderby" description="Long offset,Long limit,String orderdy" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="olott" value="Long offset,Long limit,String orderby,Date timeStart,Date timeEnd" description="Long offset,Long limit,String orderdy,Date timeStart,Date timeEnd" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="volo" value="vo,offset,limit,orderdy" description="vo,offset,limit,orderdy" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="eolo" value="entity,offset,limit,orderdy" description="entity,offset,limit,orderdy" toReformat="false" toShortenFQNames="true" />
+  <template name="mso" value="Map&lt;String, Object&gt; params" description="Map&lt;String, Object&gt; params" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="tnc" value="throw new CommonException(CommonErrorType.COMMON_DATA_NULL);" description="throw new CommonException(CommonErrorType.COMMON_DATA_NULL);" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="nm" value="Map&lt;String,Object&gt; params = new HashMap&lt;&gt;();" description="Map&lt;String,Object&gt; params = new HashMap&lt;&gt;();" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

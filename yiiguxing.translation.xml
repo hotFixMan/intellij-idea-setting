@@ -1,7 +1,7 @@
 <application>
   <component name="AppStorage">
     <option name="lastLanguages">
-      <language-pair target="ENGLISH" />
+      <language-pair target="CHINESE" />
     </option>
     <histories>
       <item value="Copy the contents of the given input File to the given output File." />
@@ -57,7 +57,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="131" />
+        <entry key="CHINESE" value="132" />
         <entry key="ENGLISH" value="132" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="BASQUE" value="1" />

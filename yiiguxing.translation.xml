@@ -4,6 +4,7 @@
       <language-pair target="CHINESE" />
     </option>
     <histories>
+      <item value="passionate Little Baby" />
       <item value="Copy the contents of the given input File to the given output File." />
       <item value="生成后的代码" />
       <item value="存在" />
@@ -28,7 +29,6 @@
       <item value="invoke" />
       <item value="Defines several {@link Null} annotations on the same element." />
       <item value="Constraint" />
-      <item value="passionate Little Baby" />
       <item value="define" />
       <item value="A new String if suffix was appended, the same string otherwise." />
       <item value="Dupl" />
@@ -58,7 +58,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="133" />
-        <entry key="ENGLISH" value="133" />
+        <entry key="ENGLISH" value="134" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="BASQUE" value="1" />
         <entry key="SWEDISH" value="2" />

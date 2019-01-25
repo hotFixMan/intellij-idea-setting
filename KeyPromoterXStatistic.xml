@@ -574,7 +574,7 @@
           <IdeaActionID>ActivateRunDashboardToolWindow</IdeaActionID>
           <ShortCut>'Shift+R'</ShortCut>
           <Description>Run Dashboard</Description>
-          <Count>845</Count>
+          <Count>848</Count>
         </Item>
       </Statistic>
       <Statistic Action="Set Active Changelist">

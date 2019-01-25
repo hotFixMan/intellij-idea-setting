@@ -574,7 +574,7 @@
           <IdeaActionID>ActivateRunDashboardToolWindow</IdeaActionID>
           <ShortCut>'Shift+R'</ShortCut>
           <Description>Run Dashboard</Description>
-          <Count>824</Count>
+          <Count>825</Count>
         </Item>
       </Statistic>
       <Statistic Action="Set Active Changelist">
@@ -638,7 +638,7 @@
           <IdeaActionID>ActivateSonarLintToolWindow</IdeaActionID>
           <ShortCut>'Shift+L, S'</ShortCut>
           <Description>SonarLint</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Source Editor">

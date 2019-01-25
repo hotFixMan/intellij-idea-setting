@@ -18,16 +18,16 @@
         <mark key="^" line="347" column="98" />
         <mark key="." line="347" column="98" />
       </file>
-      <file name="F:/allProject/csis-ms-server-project/csis-ms-baseservice/ms-baseservice-provider/src/main/java/com/royalnu/csis/ms/baseservice/provider/rbac/controller/v1/UserInfoController.java" timestamp="1548416541784">
+      <file name="F:/allProject/csis-ms-server-project/csis-ms-baseservice/ms-baseservice-provider/src/main/java/com/royalnu/csis/ms/baseservice/provider/rbac/controller/v1/UserInfoController.java" timestamp="1548417407512">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="53" column="0" />
         <mark key="." line="51" column="0" />
         <mark key="^" line="49" column="3" />
       </file>
-      <file name="F:/allProject/csis-ms-server-project/csis-mybatis-codegen/codgen-config.xml" timestamp="1548416211015">
-        <mark key="[" line="204" column="0" />
-        <mark key="]" line="208" column="16" />
-        <mark key="." line="204" column="0" />
+      <file name="F:/allProject/csis-ms-server-project/csis-mybatis-codegen/codgen-config.xml" timestamp="1548417540319">
+        <mark key="[" line="210" column="0" />
+        <mark key="]" line="215" column="0" />
+        <mark key="." line="210" column="0" />
       </file>
       <file name="F:/allProject/csis-server-project/csis-module/cm-admin/src/main/java/com/royalnu/core/module/admin/gateway/web/AdminWorkScheduleInfoDetailController.java" timestamp="1544408273873">
         <mark key="'" line="0" column="0" />
@@ -44,13 +44,13 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgVXNlclRlYW1zU2VydmljZSB1c2VyVGVhbXNTZXJ2aWNlOwoK</text>
+        <text encoding="base64">ICAgICAgICA8dGFibGUgdGFibGVOYW1lPSJ0X3VzZXJfcG9zaXRpb24iIGRvbWFpbk9iamVjdE5hbWU9IlVzZXJQb3NpdGlvbiIKICAgICAgICAgICAgICAgZW5hYmxlQ291bnRCeUV4YW1wbGU9ImZhbHNlIiBlbmFibGVVcGRhdGVCeUV4YW1wbGU9ImZhbHNlIgogICAgICAgICAgICAgICBlbmFibGVEZWxldGVCeUV4YW1wbGU9ImZhbHNlIiBlbmFibGVTZWxlY3RCeUV4YW1wbGU9ImZhbHNlIgogICAgICAgICAgICAgICBzZWxlY3RCeUV4YW1wbGVRdWVyeUlkPSJmYWxzZSI+CiAgICAgICAgPC90YWJsZT4KCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHVzZXJUZWFtc1NlcnZpY2UK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgVXNlclRlYW1zU2VydmljZSB1c2VyVGVhbXNTZXJ2aWNlOwoK</text>
+        <text encoding="base64">ICAgICAgICA8dGFibGUgdGFibGVOYW1lPSJ0X3VzZXJfcG9zaXRpb24iIGRvbWFpbk9iamVjdE5hbWU9IlVzZXJQb3NpdGlvbiIKICAgICAgICAgICAgICAgZW5hYmxlQ291bnRCeUV4YW1wbGU9ImZhbHNlIiBlbmFibGVVcGRhdGVCeUV4YW1wbGU9ImZhbHNlIgogICAgICAgICAgICAgICBlbmFibGVEZWxldGVCeUV4YW1wbGU9ImZhbHNlIiBlbmFibGVTZWxlY3RCeUV4YW1wbGU9ImZhbHNlIgogICAgICAgICAgICAgICBzZWxlY3RCeUV4YW1wbGVRdWVyeUlkPSJmYWxzZSI+CiAgICAgICAgPC90YWJsZT4KCg==</text>
       </register>
       <register name="-" type="4">
         <text>userPasswordServi</text>

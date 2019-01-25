@@ -20,5 +20,15 @@
         <option name="apiUrl" value="tcp://192.10.14.162:2375" />
       </configuration>
     </remote-server>
+    <remote-server name="192.10.14.164_docker" type="docker">
+      <configuration>
+        <option name="apiUrl" value="tcp://192.10.14.164:2375" />
+      </configuration>
+    </remote-server>
+    <remote-server name="192.10.14.165_docker" type="docker">
+      <configuration>
+        <option name="apiUrl" value="tcp://192.10.14.165:2375" />
+      </configuration>
+    </remote-server>
   </component>
 </application>

@@ -6,7 +6,7 @@
           <IdeaActionID>Git.Add</IdeaActionID>
           <ShortCut>'Ctrl+Alt+A'</ShortCut>
           <Description>Add</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Apply Current Layout">
@@ -158,7 +158,7 @@
           <IdeaActionID>RunDashboard.EditConfiguration</IdeaActionID>
           <ShortCut>'F4'</ShortCut>
           <Description>Edit Configuration...</Description>
-          <Count>191</Count>
+          <Count>195</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit...">
@@ -238,7 +238,7 @@
           <IdeaActionID>ActivateMavenToolWindow</IdeaActionID>
           <ShortCut>'Shift+M'</ShortCut>
           <Description>Maven</Description>
-          <Count>207</Count>
+          <Count>209</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -302,7 +302,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Properties">
@@ -398,7 +398,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>52</Count>
+          <Count>53</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -574,7 +574,7 @@
           <IdeaActionID>ActivateRunDashboardToolWindow</IdeaActionID>
           <ShortCut>'Shift+R'</ShortCut>
           <Description>Run Dashboard</Description>
-          <Count>825</Count>
+          <Count>826</Count>
         </Item>
       </Statistic>
       <Statistic Action="Set Active Changelist">

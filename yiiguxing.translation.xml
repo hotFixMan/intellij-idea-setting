@@ -4,6 +4,7 @@
       <language-pair target="CHINESE" />
     </option>
     <histories>
+      <item value="Optional" />
       <item value="passionate Little Baby" />
       <item value="Copy the contents of the given input File to the given output File." />
       <item value="生成后的代码" />
@@ -53,12 +54,11 @@
       <item value="contact" />
       <item value="include" />
       <item value="Comment" />
-      <item value="scan" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="133" />
-        <entry key="ENGLISH" value="134" />
+        <entry key="CHINESE" value="134" />
+        <entry key="ENGLISH" value="135" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="BASQUE" value="1" />
         <entry key="SWEDISH" value="2" />

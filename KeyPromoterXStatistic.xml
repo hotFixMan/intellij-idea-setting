@@ -46,7 +46,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>223</Count>
+          <Count>225</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -118,7 +118,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>532</Count>
+          <Count>533</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -406,7 +406,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run</Description>
-          <Count>636</Count>
+          <Count>639</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '1&amp;2LevelService'">
@@ -574,7 +574,7 @@
           <IdeaActionID>ActivateRunDashboardToolWindow</IdeaActionID>
           <ShortCut>'Shift+R'</ShortCut>
           <Description>Run Dashboard</Description>
-          <Count>848</Count>
+          <Count>853</Count>
         </Item>
       </Statistic>
       <Statistic Action="Set Active Changelist">

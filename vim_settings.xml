@@ -18,10 +18,10 @@
         <mark key="^" line="347" column="98" />
         <mark key="." line="347" column="98" />
       </file>
-      <file name="F:/allProject/csis-ms-server-project/csis-ms-baseservice/ms-baseservice-provider/src/main/java/com/royalnu/csis/ms/baseservice/provider/rbac/controller/v1/UserInfoController.java" timestamp="1548417407512">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="51" column="0" />
+      <file name="F:/allProject/csis-ms-server-project/csis-ms-baseservice/ms-baseservice-provider/src/main/java/com/royalnu/csis/ms/baseservice/provider/rbac/controller/v1/UserInfoController.java" timestamp="1548661412994">
+        <mark key="[" line="236" column="64" />
+        <mark key="]" line="236" column="64" />
+        <mark key="." line="236" column="64" />
         <mark key="^" line="49" column="3" />
       </file>
       <file name="F:/allProject/csis-ms-server-project/csis-mybatis-codegen/codgen-config.xml" timestamp="1548645503965">
@@ -49,11 +49,11 @@
       <jump line="347" column="91" filename="F:/allProject/csis-ms-server-project/csis-mybatis-codegen/src/main/java/com/royalnu/mybatiscodegen/plugins/PojoViewPlugin.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8dGFibGUgdGFibGVOYW1lPSJ0X3VzZXJfdGVhbXNfdXNlciIgZG9tYWluT2JqZWN0TmFtZT0iVXNlclRlYW1zVXNlciIKICAgICAgICAgICAgICAgZW5hYmxlQ291bnRCeUV4YW1wbGU9ImZhbHNlIiBlbmFibGVVcGRhdGVCeUV4YW1wbGU9ImZhbHNlIgogICAgICAgICAgICAgICBlbmFibGVEZWxldGVCeUV4YW1wbGU9ImZhbHNlIiBlbmFibGVTZWxlY3RCeUV4YW1wbGU9ImZhbHNlIgogICAgICAgICAgICAgICBzZWxlY3RCeUV4YW1wbGVRdWVyeUlkPSJmYWxzZSI+CiAgICAgICAgPC90YWJsZT4KCg==</text>
+      <register name="&quot;" type="4">
+        <text>ABANDON</text>
       </register>
       <register name="-" type="4">
-        <text>t_user_position_user&quot;</text>
+        <text>ABANDON</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwsXD4=</text>

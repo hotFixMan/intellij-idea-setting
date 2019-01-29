@@ -366,7 +366,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Rerun</Description>
-          <Count>82</Count>
+          <Count>86</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Application'">
@@ -574,7 +574,7 @@
           <IdeaActionID>ActivateRunDashboardToolWindow</IdeaActionID>
           <ShortCut>'Shift+R'</ShortCut>
           <Description>Run Dashboard</Description>
-          <Count>930</Count>
+          <Count>932</Count>
         </Item>
       </Statistic>
       <Statistic Action="Set Active Changelist">

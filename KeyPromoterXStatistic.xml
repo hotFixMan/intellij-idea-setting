@@ -158,7 +158,7 @@
           <IdeaActionID>RunDashboard.EditConfiguration</IdeaActionID>
           <ShortCut>'F4'</ShortCut>
           <Description>Edit Configuration...</Description>
-          <Count>210</Count>
+          <Count>213</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit...">
@@ -414,7 +414,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run</Description>
-          <Count>714</Count>
+          <Count>716</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '1&amp;2LevelService'">
@@ -614,7 +614,7 @@
           <IdeaActionID>ActivateRunDashboardToolWindow</IdeaActionID>
           <ShortCut>'Shift+R'</ShortCut>
           <Description>Run Dashboard</Description>
-          <Count>999</Count>
+          <Count>1000</Count>
         </Item>
       </Statistic>
       <Statistic Action="Set Active Changelist">
@@ -710,7 +710,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>173</Count>
+          <Count>175</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Application'">

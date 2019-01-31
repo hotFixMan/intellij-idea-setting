@@ -18,8 +18,8 @@
     <mask>*.yml</mask>
     <mask>*.properties</mask>
     <mask>*.xml</mask>
-    <mask>*</mask>
     <mask>pom.xml</mask>
+    <mask>*</mask>
     <mask>*.java</mask>
   </component>
 </application>

@@ -46,7 +46,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>259</Count>
+          <Count>260</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -118,7 +118,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>684</Count>
+          <Count>687</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -238,7 +238,7 @@
           <IdeaActionID>ActivateMavenToolWindow</IdeaActionID>
           <ShortCut>'Shift+M'</ShortCut>
           <Description>Maven</Description>
-          <Count>269</Count>
+          <Count>271</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -270,7 +270,7 @@
           <IdeaActionID>ChangesView.Move</IdeaActionID>
           <ShortCut>'Alt+Shift+M'</ShortCut>
           <Description>Move to Another Changelist...</Description>
-          <Count>76</Count>
+          <Count>77</Count>
         </Item>
       </Statistic>
       <Statistic Action="New Watch...">
@@ -430,7 +430,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run</Description>
-          <Count>746</Count>
+          <Count>749</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '1&amp;2LevelService'">
@@ -630,7 +630,7 @@
           <IdeaActionID>ActivateRunDashboardToolWindow</IdeaActionID>
           <ShortCut>'Shift+R'</ShortCut>
           <Description>Run Dashboard</Description>
-          <Count>1048</Count>
+          <Count>1051</Count>
         </Item>
       </Statistic>
       <Statistic Action="Set Active Changelist">

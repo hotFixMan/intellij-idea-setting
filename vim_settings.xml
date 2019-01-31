@@ -18,6 +18,11 @@
         <mark key="^" line="347" column="98" />
         <mark key="." line="347" column="98" />
       </file>
+      <file name="F:/allProject/csis-ms-server-project/csis-ms-baseservice/ms-baseservice-provider/src/main/java/com/royalnu/csis/ms/baseservice/provider/rbac/controller/v1/UserSrcController.java" timestamp="1548926830498">
+        <mark key="[" line="185" column="0" />
+        <mark key="]" line="185" column="133" />
+        <mark key="." line="185" column="0" />
+      </file>
       <file name="F:/allProject/csis-ms-server-project/csis-ms-baseservice/ms-baseservice-provider/src/main/java/com/royalnu/csis/ms/baseservice/provider/rbac/controller/v1/UserInfoController.java" timestamp="1548661412994">
         <mark key="[" line="236" column="64" />
         <mark key="]" line="236" column="64" />
@@ -49,8 +54,8 @@
       <jump line="347" column="91" filename="F:/allProject/csis-ms-server-project/csis-mybatis-codegen/src/main/java/com/royalnu/mybatiscodegen/plugins/PojoViewPlugin.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>UserPositionUser</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBBcGlJbXBsaWNpdFBhcmFtKHBhcmFtVHlwZSA9ICJxdWVyeSIsIG5hbWUgPSAiY2xpZW50U3JjUm9vdCIsIHZhbHVlID0gImNsaWVudFNyY1Jvb3RDb2RlIiwgcmVxdWlyZWQgPSB0cnVlLCBkYXRhVHlwZSA9ICJTdHJpbmciKQo=</text>
       </register>
       <register name="-" type="4">
         <text>UserPositionUser</text>
@@ -59,7 +64,7 @@
         <text encoding="base64">XDwsXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8dGFibGUgdGFibGVOYW1lPSJ0X3VzZXJfcG9zaXRpb25fdXNlciIgZG9tYWluT2JqZWN0TmFtZT0iVXNlclBvc2l0aW9uVXNlciIKICAgICAgICAgICAgICAgZW5hYmxlQ291bnRCeUV4YW1wbGU9ImZhbHNlIiBlbmFibGVVcGRhdGVCeUV4YW1wbGU9ImZhbHNlIgogICAgICAgICAgICAgICBlbmFibGVEZWxldGVCeUV4YW1wbGU9ImZhbHNlIiBlbmFibGVTZWxlY3RCeUV4YW1wbGU9ImZhbHNlIgogICAgICAgICAgICAgICBzZWxlY3RCeUV4YW1wbGVRdWVyeUlkPSJmYWxzZSI+CiAgICAgICAgPC90YWJsZT4KCg==</text>
+        <text encoding="base64">ICAgIEBBcGlJbXBsaWNpdFBhcmFtKHBhcmFtVHlwZSA9ICJxdWVyeSIsIG5hbWUgPSAiY2xpZW50U3JjUm9vdCIsIHZhbHVlID0gImNsaWVudFNyY1Jvb3RDb2RlIiwgcmVxdWlyZWQgPSB0cnVlLCBkYXRhVHlwZSA9ICJTdHJpbmciKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dF91c2VyX2luZgo=</text>

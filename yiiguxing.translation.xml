@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="judge" />
+      <item value="yy" />
       <item value="parent Id" />
+      <item value="judge" />
       <item value="q" />
       <item value="recursion Query" />
       <item value="recursion" />
@@ -50,12 +51,11 @@
       <item value="Description" />
       <item value="Engine" />
       <item value="SNAPSHOT" />
-      <item value="current" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="148" />
-        <entry key="ENGLISH" value="149" />
+        <entry key="CHINESE" value="151" />
+        <entry key="ENGLISH" value="152" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="BASQUE" value="1" />
         <entry key="SWEDISH" value="2" />

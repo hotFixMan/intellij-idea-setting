@@ -9,13 +9,10 @@
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="ActivateMavenToolWindow">
-    <keyboard-shortcut first-keystroke="shift m" />
+    <keyboard-shortcut first-keystroke="alt m" />
   </action>
   <action id="ActivateRunDashboardToolWindow">
     <keyboard-shortcut first-keystroke="alt r" />
-  </action>
-  <action id="ActivateSonarLintToolWindow">
-    <keyboard-shortcut first-keystroke="shift l" second-keystroke="s" />
   </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="ctrl comma" />
@@ -51,7 +48,7 @@
     <keyboard-shortcut first-keystroke="shift p" />
   </action>
   <action id="ToolsMenu">
-    <keyboard-shortcut first-keystroke="shift t" />
+    <keyboard-shortcut first-keystroke="alt t" />
   </action>
   <action id="VimPluginToggle">
     <keyboard-shortcut first-keystroke="shift v" />

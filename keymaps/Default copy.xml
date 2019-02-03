@@ -45,7 +45,7 @@
     <keyboard-shortcut first-keystroke="shift x" second-keystroke="s" />
   </action>
   <action id="Tool_External Tools_postman">
-    <keyboard-shortcut first-keystroke="shift p" />
+    <keyboard-shortcut first-keystroke="alt p" />
   </action>
   <action id="ToolsMenu">
     <keyboard-shortcut first-keystroke="alt t" />

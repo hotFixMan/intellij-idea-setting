@@ -118,7 +118,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>745</Count>
+          <Count>746</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -238,7 +238,7 @@
           <IdeaActionID>ActivateMavenToolWindow</IdeaActionID>
           <ShortCut>'Shift+M'</ShortCut>
           <Description>Maven</Description>
-          <Count>281</Count>
+          <Count>283</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -726,7 +726,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>200</Count>
+          <Count>201</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Application'">
@@ -862,7 +862,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>70</Count>
+          <Count>71</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">

@@ -294,7 +294,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>32</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -534,7 +534,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'UserRoleSrcSer....main()'</Description>
-          <Count>30</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'UserSrcControl....main()'">

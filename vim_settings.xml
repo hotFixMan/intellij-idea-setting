@@ -38,6 +38,11 @@
       <file name="F:/allProject/csis-server-project/csis-module/cm-admin/src/main/java/com/royalnu/core/module/admin/gateway/web/AdminWorkScheduleInfoDetailController.java" timestamp="1544408273873">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="F:/allProject/csis-ms-server-project/csis-ms-baseservice/ms-baseservice-provider/src/main/java/com/royalnu/csis/ms/baseservice/provider/rbac/service/impl/UserSrcServiceImpl.java" timestamp="1549934686373">
+        <mark key="[" line="62" column="39" />
+        <mark key="]" line="62" column="39" />
+        <mark key="." line="62" column="39" />
+      </file>
       <file name="/fragment.java" timestamp="1513509164629">
         <mark key="[" line="0" column="0" />
       </file>
@@ -54,11 +59,11 @@
       <jump line="347" column="91" filename="F:/allProject/csis-ms-server-project/csis-mybatis-codegen/src/main/java/com/royalnu/mybatiscodegen/plugins/PojoViewPlugin.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBBcGlJbXBsaWNpdFBhcmFtKHBhcmFtVHlwZSA9ICJxdWVyeSIsIG5hbWUgPSAiY2xpZW50U3JjUm9vdCIsIHZhbHVlID0gImNsaWVudFNyY1Jvb3RDb2RlIiwgcmVxdWlyZWQgPSB0cnVlLCBkYXRhVHlwZSA9ICJTdHJpbmciKQo=</text>
+      <register name="&quot;" type="4">
+        <text>getId</text>
       </register>
       <register name="-" type="4">
-        <text>UserPositionUser</text>
+        <text>getId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwsXD4=</text>

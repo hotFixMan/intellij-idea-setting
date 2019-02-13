@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Available" />
       <item value="Clause" />
       <item value="peek" />
       <item value="primary" />
@@ -50,12 +51,11 @@
       <item value="A new String if suffix was appended, the same string otherwise." />
       <item value="Dupl" />
       <item value="distinct" />
-      <item value="Duplicated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="159" />
-        <entry key="ENGLISH" value="160" />
+        <entry key="CHINESE" value="160" />
+        <entry key="ENGLISH" value="161" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="BASQUE" value="1" />
         <entry key="SWEDISH" value="2" />

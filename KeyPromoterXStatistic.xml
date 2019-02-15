@@ -118,7 +118,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'Shift+D'</ShortCut>
           <Description>Database</Description>
-          <Count>48</Count>
+          <Count>51</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">

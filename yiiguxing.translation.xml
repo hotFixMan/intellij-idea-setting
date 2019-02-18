@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="associated" />
       <item value="passageway" />
       <item value="aisle" />
       <item value="Conflicting Bean Definition Exception" />
@@ -50,12 +51,11 @@
       <item value="validate" />
       <item value="invoke" />
       <item value="Defines several {@link Null} annotations on the same element." />
-      <item value="Constraint" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="163" />
-        <entry key="ENGLISH" value="163" />
+        <entry key="ENGLISH" value="164" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="BASQUE" value="1" />
         <entry key="SWEDISH" value="2" />

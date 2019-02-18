@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="inconsistent" />
+      <item value="adjust Result" />
+      <item value="calibration" />
       <item value="associated" />
       <item value="passageway" />
       <item value="aisle" />
@@ -48,14 +51,11 @@
       <item value="single Quotes Symbol" />
       <item value="dollar Symbol" />
       <item value="s" />
-      <item value="validate" />
-      <item value="invoke" />
-      <item value="Defines several {@link Null} annotations on the same element." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="163" />
-        <entry key="ENGLISH" value="164" />
+        <entry key="CHINESE" value="166" />
+        <entry key="ENGLISH" value="167" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="BASQUE" value="1" />
         <entry key="SWEDISH" value="2" />

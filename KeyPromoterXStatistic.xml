@@ -54,7 +54,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>301</Count>
+          <Count>303</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -126,7 +126,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>931</Count>
+          <Count>932</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -246,7 +246,7 @@
           <IdeaActionID>ActivateMavenToolWindow</IdeaActionID>
           <ShortCut>'Shift+M'</ShortCut>
           <Description>Maven</Description>
-          <Count>342</Count>
+          <Count>344</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -278,7 +278,7 @@
           <IdeaActionID>ChangesView.Move</IdeaActionID>
           <ShortCut>'Alt+Shift+M'</ShortCut>
           <Description>Move to Another Changelist...</Description>
-          <Count>98</Count>
+          <Count>99</Count>
         </Item>
       </Statistic>
       <Statistic Action="New Watch...">
@@ -390,7 +390,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>43</Count>
+          <Count>44</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun">
@@ -414,7 +414,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'HeartInfoServiceImplTest'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
@@ -446,7 +446,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run</Description>
-          <Count>801</Count>
+          <Count>802</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '1&amp;2LevelService'">
@@ -774,7 +774,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>145</Count>
+          <Count>149</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Translation Dialog...">
@@ -822,7 +822,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>253</Count>
+          <Count>254</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Application'">
@@ -878,6 +878,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'product.server.clean.install'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'redisDesktopManager'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'redisDesktopManager'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>

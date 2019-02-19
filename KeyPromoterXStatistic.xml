@@ -126,7 +126,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>928</Count>
+          <Count>930</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -166,7 +166,7 @@
           <IdeaActionID>RunDashboard.EditConfiguration</IdeaActionID>
           <ShortCut>'F4'</ShortCut>
           <Description>Edit Configuration...</Description>
-          <Count>263</Count>
+          <Count>264</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit...">
@@ -246,7 +246,7 @@
           <IdeaActionID>ActivateMavenToolWindow</IdeaActionID>
           <ShortCut>'Shift+M'</ShortCut>
           <Description>Maven</Description>
-          <Count>336</Count>
+          <Count>338</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -398,7 +398,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Rerun</Description>
-          <Count>100</Count>
+          <Count>101</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Application'">
@@ -806,7 +806,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>248</Count>
+          <Count>251</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Application'">
@@ -822,6 +822,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'GeneratorRunner'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'HeartInfoServiceImplTest.countUserOnlineTimeToCacheTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'HeartInfoServiceImplTest.countUserOnlineTimeToCacheTest'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -902,7 +910,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>18</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">

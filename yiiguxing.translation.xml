@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Heart Beat" />
+      <item value="established" />
       <item value="inconsistent" />
       <item value="adjust Result" />
       <item value="calibration" />
@@ -49,13 +51,11 @@
       <item value="UNDERSCORE" />
       <item value="Invalid" />
       <item value="single Quotes Symbol" />
-      <item value="dollar Symbol" />
-      <item value="s" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="166" />
-        <entry key="ENGLISH" value="167" />
+        <entry key="CHINESE" value="168" />
+        <entry key="ENGLISH" value="169" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="BASQUE" value="1" />
         <entry key="SWEDISH" value="2" />

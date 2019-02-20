@@ -166,7 +166,7 @@
           <IdeaActionID>RunDashboard.EditConfiguration</IdeaActionID>
           <ShortCut>'F4'</ShortCut>
           <Description>Edit Configuration...</Description>
-          <Count>265</Count>
+          <Count>266</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit...">
@@ -398,7 +398,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Rerun</Description>
-          <Count>101</Count>
+          <Count>102</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Application'">
@@ -446,7 +446,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run</Description>
-          <Count>816</Count>
+          <Count>823</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '1&amp;2LevelService'">
@@ -822,7 +822,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>269</Count>
+          <Count>278</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Application'">
@@ -942,7 +942,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>256</Count>
+          <Count>257</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">

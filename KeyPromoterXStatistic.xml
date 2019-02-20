@@ -969,6 +969,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Update 'basedata' application">
+        <Item>
+          <IdeaActionID>UpdateRunningApplication</IdeaActionID>
+          <ShortCut>'Ctrl+F10'</ShortCut>
+          <Description>Update 'basedata' application</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Update 'discovery' application">
         <Item>
           <IdeaActionID>UpdateRunningApplication</IdeaActionID>

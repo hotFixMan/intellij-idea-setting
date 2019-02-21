@@ -54,7 +54,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>314</Count>
+          <Count>316</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -126,7 +126,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>955</Count>
+          <Count>956</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -278,7 +278,7 @@
           <IdeaActionID>ChangesView.Move</IdeaActionID>
           <ShortCut>'Alt+Shift+M'</ShortCut>
           <Description>Move to Another Changelist...</Description>
-          <Count>102</Count>
+          <Count>104</Count>
         </Item>
       </Statistic>
       <Statistic Action="New Watch...">
@@ -623,6 +623,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'WayInfoControl....main()'</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'WorkScheduleTe....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'WorkScheduleTe....main()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'code_generator'">

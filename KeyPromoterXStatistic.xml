@@ -246,7 +246,7 @@
           <IdeaActionID>ActivateMavenToolWindow</IdeaActionID>
           <ShortCut>'Shift+M'</ShortCut>
           <Description>Maven</Description>
-          <Count>376</Count>
+          <Count>378</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -630,7 +630,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'WorkScheduleTe....main()'</Description>
-          <Count>5</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'code_generator'">

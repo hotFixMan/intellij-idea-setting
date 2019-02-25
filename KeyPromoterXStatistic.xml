@@ -54,7 +54,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>323</Count>
+          <Count>325</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -246,7 +246,7 @@
           <IdeaActionID>ActivateMavenToolWindow</IdeaActionID>
           <ShortCut>'Shift+M'</ShortCut>
           <Description>Maven</Description>
-          <Count>395</Count>
+          <Count>402</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -446,7 +446,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run</Description>
-          <Count>872</Count>
+          <Count>876</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '1&amp;2LevelService'">

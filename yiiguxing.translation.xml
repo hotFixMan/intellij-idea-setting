@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="select Genealogy By Son Except Root Orderby Parent Id" />
       <item value="Spring Java Injection Points Autowiring Inspection" />
       <item value="defined in file [F:\allProject\csis-ms-server-project\csis-ms-task\ms-task-provider\target\classes\com\royalnu\csis\ms\task\provider\user\service\impl\UserOnlineTimeServiceImpl.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.royalnu.csis.ms.task.provider.user.mapper.UserOnlineTimeMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations:" />
       <item value="Indispensable" />
@@ -50,12 +51,11 @@
       <item value="Canonical" />
       <item value="mounted" />
       <item value="menu" />
-      <item value="Future" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="171" />
-        <entry key="ENGLISH" value="172" />
+        <entry key="CHINESE" value="172" />
+        <entry key="ENGLISH" value="173" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="BASQUE" value="1" />
         <entry key="FRENCH" value="1" />

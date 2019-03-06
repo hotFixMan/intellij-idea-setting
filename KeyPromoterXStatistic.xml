@@ -54,7 +54,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>350</Count>
+          <Count>351</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -70,7 +70,7 @@
           <IdeaActionID>CopyPaths</IdeaActionID>
           <ShortCut>'Ctrl+Shift+C'</ShortCut>
           <Description>Copy Path</Description>
-          <Count>34</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Reference">
@@ -86,7 +86,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
           <Description>Copy Relative Path</Description>
-          <Count>9</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Value">
@@ -254,7 +254,7 @@
           <IdeaActionID>ActivateMavenToolWindow</IdeaActionID>
           <ShortCut>'Shift+M'</ShortCut>
           <Description>Maven</Description>
-          <Count>484</Count>
+          <Count>485</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -463,6 +463,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'HeartInfoServiceImplTest'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'unloading'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'unloading'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
@@ -982,7 +990,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'unloading'</Description>
-          <Count>18</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop...">

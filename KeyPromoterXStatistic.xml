@@ -134,7 +134,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1197</Count>
+          <Count>1205</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -254,7 +254,7 @@
           <IdeaActionID>ActivateMavenToolWindow</IdeaActionID>
           <ShortCut>'Shift+M'</ShortCut>
           <Description>Maven</Description>
-          <Count>510</Count>
+          <Count>514</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -502,7 +502,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run</Description>
-          <Count>952</Count>
+          <Count>958</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '1&amp;2LevelService'">

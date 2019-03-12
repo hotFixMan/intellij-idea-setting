@@ -254,7 +254,7 @@
           <IdeaActionID>ActivateMavenToolWindow</IdeaActionID>
           <ShortCut>'Shift+M'</ShortCut>
           <Description>Maven</Description>
-          <Count>518</Count>
+          <Count>520</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -510,7 +510,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run</Description>
-          <Count>964</Count>
+          <Count>967</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '1&amp;2LevelService'">
@@ -958,7 +958,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>374</Count>
+          <Count>378</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Application'">

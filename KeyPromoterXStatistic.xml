@@ -510,7 +510,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run</Description>
-          <Count>963</Count>
+          <Count>964</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '1&amp;2LevelService'">
@@ -910,7 +910,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>163</Count>
+          <Count>166</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Translation Dialog...">
@@ -958,7 +958,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>372</Count>
+          <Count>373</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Application'">
@@ -1094,7 +1094,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>312</Count>
+          <Count>313</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
@@ -1142,7 +1142,7 @@
           <IdeaActionID>UpdateRunningApplication</IdeaActionID>
           <ShortCut>'Ctrl+F10'</ShortCut>
           <Description>Update 'gateway' application</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update 'msadmin' application">

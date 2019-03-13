@@ -54,7 +54,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>366</Count>
+          <Count>368</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -494,7 +494,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>171</Count>
+          <Count>175</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -958,7 +958,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>379</Count>
+          <Count>382</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Application'">
@@ -1094,7 +1094,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>313</Count>
+          <Count>316</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
@@ -1158,7 +1158,7 @@
           <IdeaActionID>UpdateRunningApplication</IdeaActionID>
           <ShortCut>'Ctrl+F10'</ShortCut>
           <Description>Update 'mscsis' application</Description>
-          <Count>29</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">

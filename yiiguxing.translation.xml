@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="invalid comparison: com.fasterxml.jackson.databind.node.ArrayNode and java.lang.String" />
       <item value="truncate" />
       <item value="Millis" />
       <item value="Number of retries on next server exceeded max 1 retries, while making a call for: 192.168.45.1:9003" />
@@ -50,12 +51,11 @@
       <item value="生成后的代码" />
       <item value="存在" />
       <item value="时间" />
-      <item value="common" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="179" />
-        <entry key="ENGLISH" value="180" />
+        <entry key="CHINESE" value="180" />
+        <entry key="ENGLISH" value="181" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="BASQUE" value="1" />
         <entry key="FRENCH" value="1" />

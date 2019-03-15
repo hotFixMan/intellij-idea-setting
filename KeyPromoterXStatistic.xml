@@ -78,7 +78,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
           <Description>Copy Reference</Description>
-          <Count>22</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Relative Path">
@@ -151,6 +151,14 @@
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
           <Count>195</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Desktop Directory">
+        <Item>
+          <IdeaActionID>FileChooser.GotoDesktop</IdeaActionID>
+          <ShortCut>'Ctrl+D'</ShortCut>
+          <Description>Desktop Directory</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -254,7 +262,7 @@
           <IdeaActionID>ActivateMavenToolWindow</IdeaActionID>
           <ShortCut>'Shift+M'</ShortCut>
           <Description>Maven</Description>
-          <Count>528</Count>
+          <Count>529</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -326,7 +334,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Properties">
@@ -1118,7 +1126,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>349</Count>
+          <Count>350</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">

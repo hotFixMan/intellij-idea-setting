@@ -1,7 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="Java/Annotations/Add Annotation" />
-    <ignoreAction name="Java/Comments/Replace with Block Comment" />
-    <ignoreAction name="Java/Refactorings/Introduce local variable" />
-  </component>
-</application>

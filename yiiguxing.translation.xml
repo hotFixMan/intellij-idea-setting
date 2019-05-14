@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="customer Box" />
+      <item value="construct" />
       <item value="条码" />
       <item value="打印" />
       <item value="赋值" />
@@ -49,13 +51,11 @@
       <item value="yy" />
       <item value="parent Id" />
       <item value="judge" />
-      <item value="q" />
-      <item value="recursion Query" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="193" />
-        <entry key="ENGLISH" value="193" />
+        <entry key="CHINESE" value="194" />
+        <entry key="ENGLISH" value="195" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="BASQUE" value="1" />
         <entry key="FRENCH" value="1" />

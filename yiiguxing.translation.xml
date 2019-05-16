@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="随机数" />
       <item value="If the failing expression is known to legally refer to something that's sometimes null or missing," />
       <item value="Tip: It's the step after the last dot that caused this error, not those before it." />
       <item value="Picked" />
@@ -50,11 +51,10 @@
       <item value="Clause" />
       <item value="peek" />
       <item value="primary" />
-      <item value="Batch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="203" />
+        <entry key="CHINESE" value="204" />
         <entry key="ENGLISH" value="204" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="BASQUE" value="1" />

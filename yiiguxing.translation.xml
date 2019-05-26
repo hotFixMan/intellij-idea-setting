@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="illegal suffix" />
       <item value="Nested Servlet Exception" />
       <item value="overflow" />
       <item value="visit" />
@@ -50,12 +51,11 @@
       <item value="Indispensable" />
       <item value="The error occurred while setting parameters" />
       <item value="Heart Beat" />
-      <item value="established" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="212" />
-        <entry key="ENGLISH" value="213" />
+        <entry key="CHINESE" value="213" />
+        <entry key="ENGLISH" value="214" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="BASQUE" value="1" />
         <entry key="DANISH" value="1" />

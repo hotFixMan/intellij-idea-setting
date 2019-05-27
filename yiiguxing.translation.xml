@@ -1,17 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="FORMATTER BR" />
-      <item value="associate" />
-      <item value="illegal suffix" />
-      <item value="Nested Servlet Exception" />
-      <item value="overflow" />
-      <item value="visit" />
-      <item value="Method has too many Body parameters" />
-      <item value="Tets" />
-      <item value="provided" />
-      <item value="顾客" />
-      <item value="客户" />
+      <item value="失败" />
+      <item value="activated" />
+      <item value="right" />
+      <item value="ringht" />
+      <item value="Tip" />
+      <item value="奇怪" />
+      <item value="senior" />
+      <item value="Contact" />
+      <item value="公司代码" />
       <item value="Lombok Requires Annotation Processing Annotation processing seems to be disabled for the project &quot;sip&quot;. But lombok is on classpath. For the lombok plugin to function correctly, please enable it under" />
       <item value="Unsatisfied" />
       <item value="当前" />
@@ -51,14 +49,15 @@
       <item value="Spring Java Injection Points Autowiring Inspection" />
       <item value="defined in file [F:\allProject\csis-ms-server-project\csis-ms-task\ms-task-provider\target\classes\com\royalnu\csis\ms\task\provider\user\service\impl\UserOnlineTimeServiceImpl.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.royalnu.csis.ms.task.provider.user.mapper.UserOnlineTimeMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations:" />
       <item value="Indispensable" />
+      <item value="The error occurred while setting parameters" />
+      <item value="Heart Beat" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="215" />
+        <entry key="CHINESE" value="216" />
         <entry key="ENGLISH" value="216" />
-        <entry key="CHINESE_TRADITIONAL" value="2" />
+        <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="BASQUE" value="1" />
-        <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="SWEDISH" value="2" />

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pending Qty" />
       <item value="init Location" />
       <item value="失败" />
       <item value="activated" />
@@ -50,12 +51,11 @@
       <item value="Spring Java Injection Points Autowiring Inspection" />
       <item value="defined in file [F:\allProject\csis-ms-server-project\csis-ms-task\ms-task-provider\target\classes\com\royalnu\csis\ms\task\provider\user\service\impl\UserOnlineTimeServiceImpl.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.royalnu.csis.ms.task.provider.user.mapper.UserOnlineTimeMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations:" />
       <item value="Indispensable" />
-      <item value="The error occurred while setting parameters" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="216" />
-        <entry key="ENGLISH" value="217" />
+        <entry key="CHINESE" value="217" />
+        <entry key="ENGLISH" value="218" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="BASQUE" value="1" />
         <entry key="FRENCH" value="1" />

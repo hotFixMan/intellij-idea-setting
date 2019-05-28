@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="是否下载" />
+      <item value="下载吗" />
       <item value="Software caused connection abort: recv failed" />
       <item value="The page 2 was requested but the document has only 1 pages." />
       <item value="pending Qty" />
@@ -49,13 +51,11 @@
       <item value="refresh once every 5 seconds" />
       <item value="5秒刷新一次" />
       <item value="explain" />
-      <item value="select Genealogy By Son Except Root Orderby Parent Id" />
-      <item value="Spring Java Injection Points Autowiring Inspection" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="219" />
-        <entry key="ENGLISH" value="220" />
+        <entry key="CHINESE" value="221" />
+        <entry key="ENGLISH" value="221" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="BASQUE" value="1" />
         <entry key="FRENCH" value="1" />

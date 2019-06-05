@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Corporation Name" />
       <item value="Extension" />
       <item value="Consum" />
       <item value="time Consumed" />
@@ -50,12 +51,11 @@
       <item value="选择关系渠道" />
       <item value="选择关联渠道" />
       <item value="选择相对渠道" />
-      <item value="选择对应渠道" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="234" />
-        <entry key="ENGLISH" value="235" />
+        <entry key="CHINESE" value="235" />
+        <entry key="ENGLISH" value="236" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="BASQUE" value="1" />
         <entry key="FRENCH" value="1" />

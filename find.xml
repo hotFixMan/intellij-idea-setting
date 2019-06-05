@@ -15,10 +15,10 @@
     <mask>*.class</mask>
     <mask>*.properties</mask>
     <mask>pom.xml</mask>
-    <mask>*.xml</mask>
     <mask>*.yml</mask>
     <mask>*.java</mask>
     <mask>*.vue</mask>
+    <mask>*.xml</mask>
     <mask>*</mask>
   </component>
 </application>

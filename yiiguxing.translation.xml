@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Contact" />
       <item value="Corporation Name" />
       <item value="Extension" />
       <item value="Consum" />
@@ -29,7 +30,6 @@
       <item value="Tip" />
       <item value="奇怪" />
       <item value="senior" />
-      <item value="Contact" />
       <item value="公司代码" />
       <item value="Lombok Requires Annotation Processing Annotation processing seems to be disabled for the project &quot;sip&quot;. But lombok is on classpath. For the lombok plugin to function correctly, please enable it under" />
       <item value="Unsatisfied" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="235" />
-        <entry key="ENGLISH" value="236" />
+        <entry key="CHINESE" value="236" />
+        <entry key="ENGLISH" value="237" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="BASQUE" value="1" />
         <entry key="FRENCH" value="1" />

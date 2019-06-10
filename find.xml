@@ -16,9 +16,9 @@
     <mask>pom.xml</mask>
     <mask>*.yml</mask>
     <mask>*.java</mask>
+    <mask>*.vue</mask>
     <mask>*.xml</mask>
     <mask>*.html</mask>
-    <mask>*.vue</mask>
     <mask>*</mask>
   </component>
 </application>

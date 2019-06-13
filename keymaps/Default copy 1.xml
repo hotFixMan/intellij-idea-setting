@@ -3,4 +3,7 @@
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
   <action id="HippieCompletion" />
+  <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
 </keymap>

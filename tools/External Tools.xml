@@ -27,4 +27,11 @@
       <option name="WORKING_DIRECTORY" value="D:/MobaXterm/app" />
     </exec>
   </tool>
+  <tool name="navicat" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="D:\NavicatPremium\app\navicat.exe" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="D:/NavicatPremium/app" />
+    </exec>
+  </tool>
 </toolSet>

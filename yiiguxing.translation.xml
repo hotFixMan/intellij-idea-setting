@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="corresponding" />
       <item value="brand" />
       <item value="Consignee" />
       <item value="conver Standard" />
@@ -50,12 +51,11 @@
       <item value="Other" />
       <item value="随机数" />
       <item value="If the failing expression is known to legally refer to something that's sometimes null or missing," />
-      <item value="Tip: It's the step after the last dot that caused this error, not those before it." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="253" />
-        <entry key="ENGLISH" value="254" />
+        <entry key="CHINESE" value="254" />
+        <entry key="ENGLISH" value="255" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="BASQUE" value="1" />
         <entry key="FRENCH" value="1" />

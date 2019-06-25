@@ -10,7 +10,7 @@
     <exec>
       <option name="COMMAND" value="C:\Users\admin\AppData\Local\Postman\app-7.1.1\Postman.exe" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Local/Postman/app-7.1.1" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/admin/AppData/Local/Postman/app-7.1.1" />
     </exec>
   </tool>
   <tool name="redisDesktopManager" description="redis desktop manager" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">

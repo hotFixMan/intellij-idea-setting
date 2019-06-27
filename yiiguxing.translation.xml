@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Attempt to get java.lang.Long field &quot;cn.sto.commons.mybatis.entity.BaseEntity.id&quot; with illegal data type conversion to long" />
       <item value="customer" />
       <item value="digest Hex" />
       <item value="telephone" />
@@ -50,12 +51,11 @@
       <item value="The page 2 was requested but the document has only 1 pages." />
       <item value="pending Qty" />
       <item value="init Location" />
-      <item value="失败" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="267" />
-        <entry key="ENGLISH" value="268" />
+        <entry key="CHINESE" value="268" />
+        <entry key="ENGLISH" value="269" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="BASQUE" value="1" />
         <entry key="FRENCH" value="1" />

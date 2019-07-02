@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="chosed" />
       <item value="epoch Milli" />
       <item value="Error occurred during initialization of VM" />
       <item value="Attempt to get java.lang.Long field &quot;cn.sto.commons.mybatis.entity.BaseEntity.id&quot; with illegal data type conversion to long" />
@@ -50,12 +51,11 @@
       <item value="是否下载" />
       <item value="下载吗" />
       <item value="Software caused connection abort: recv failed" />
-      <item value="The page 2 was requested but the document has only 1 pages." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="270" />
-        <entry key="ENGLISH" value="270" />
+        <entry key="ENGLISH" value="271" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="BASQUE" value="1" />

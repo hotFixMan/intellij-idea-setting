@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="warehouse" />
       <item value="The record based on id is empty" />
       <item value=" Assert" />
       <item value="LifecycleException: Failed to start component [Connector[HTTP/1.1-8880]]" />
@@ -50,12 +51,11 @@
       <item value="START ARRAY" />
       <item value="distribution order" />
       <item value="label" />
-      <item value="website" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="302" />
-        <entry key="ENGLISH" value="303" />
+        <entry key="CHINESE" value="303" />
+        <entry key="ENGLISH" value="304" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="IRISH" value="1" />

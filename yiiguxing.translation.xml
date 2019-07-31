@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="third Part" />
       <item value="warehouse" />
       <item value="The record based on id is empty" />
       <item value=" Assert" />
@@ -50,12 +51,11 @@
       <item value="country" />
       <item value="START ARRAY" />
       <item value="distribution order" />
-      <item value="label" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="303" />
-        <entry key="ENGLISH" value="304" />
+        <entry key="CHINESE" value="304" />
+        <entry key="ENGLISH" value="305" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="IRISH" value="1" />

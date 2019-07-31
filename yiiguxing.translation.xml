@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="decode" />
+      <item value="马帮镖局来单了" />
       <item value="finsh" />
       <item value="third Part" />
       <item value="warehouse" />
@@ -49,13 +51,11 @@
       <item value="digest Hex" />
       <item value="telephone" />
       <item value="province" />
-      <item value="country" />
-      <item value="START ARRAY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="306" />
-        <entry key="ENGLISH" value="307" />
+        <entry key="CHINESE" value="307" />
+        <entry key="ENGLISH" value="308" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="IRISH" value="1" />

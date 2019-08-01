@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="De Code" />
       <item value="@param ID the ID for a &lt;code&gt;TimeZone&lt;/code&gt;, either an abbreviation * such as &quot;PST&quot;, a full name such as &quot;America/Los_Angeles&quot;, or a custom * ID such as &quot;GMT-8:00&quot;. Note that the support of abbreviations is * for JDK 1.1.x compatibility only and full names should be used." />
       <item value="decode" />
       <item value="马帮镖局来单了" />
@@ -50,17 +51,16 @@
       <item value="Attempt to get java.lang.Long field &quot;cn.sto.commons.mybatis.entity.BaseEntity.id&quot; with illegal data type conversion to long" />
       <item value="customer" />
       <item value="digest Hex" />
-      <item value="telephone" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="308" />
+        <entry key="CHINESE" value="309" />
         <entry key="ENGLISH" value="309" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
-        <entry key="FRENCH" value="1" />
+        <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="SWEDISH" value="2" />

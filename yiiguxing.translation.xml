@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="corresponding" />
+      <item value="caravan" />
       <item value="Failed to get config info by user token!" />
       <item value="no Such User" />
       <item value="De Code" />
@@ -49,13 +51,11 @@
       <item value="长度" />
       <item value="chosed" />
       <item value="epoch Milli" />
-      <item value="Error occurred during initialization of VM" />
-      <item value="Attempt to get java.lang.Long field &quot;cn.sto.commons.mybatis.entity.BaseEntity.id&quot; with illegal data type conversion to long" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="310" />
-        <entry key="ENGLISH" value="311" />
+        <entry key="CHINESE" value="312" />
+        <entry key="ENGLISH" value="313" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="IRISH" value="1" />

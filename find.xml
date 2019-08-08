@@ -11,7 +11,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*-dev.yml" />
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
@@ -20,11 +20,12 @@
     <mask>*.class</mask>
     <mask>*.properties</mask>
     <mask>pom.xml</mask>
-    <mask>*.yml</mask>
     <mask>*.vue</mask>
     <mask>*.html</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*</mask>
+    <mask>*.yml</mask>
+    <mask>*-dev.yml</mask>
   </component>
 </application>

@@ -9,4 +9,11 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="nm" value="Map&lt;$VAR$,$VAR2$&gt; params = new HashMap&lt;&gt;();" description="Map&lt;var,var&gt; params = new HashMap&lt;&gt;();" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>

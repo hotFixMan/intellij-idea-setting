@@ -21,11 +21,11 @@
     <mask>*.properties</mask>
     <mask>pom.xml</mask>
     <mask>*.vue</mask>
-    <mask>*.html</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.yml</mask>
     <mask>*-dev.yml</mask>
+    <mask>*.html</mask>
     <mask>*</mask>
   </component>
 </application>

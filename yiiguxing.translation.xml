@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="partition" />
       <item value="test Link" />
       <item value="physical Category" />
       <item value="Break" />
@@ -50,12 +51,11 @@
       <item value="response" />
       <item value="Decimal" />
       <item value="DATE TIME PATTERN" />
-      <item value="package cannot exceed 70 pounds" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="326" />
-        <entry key="ENGLISH" value="327" />
+        <entry key="CHINESE" value="327" />
+        <entry key="ENGLISH" value="328" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="IRISH" value="1" />

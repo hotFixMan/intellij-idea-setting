@@ -18,5 +18,8 @@
   </template>
   <template name="ifsn" value="if (StringUtils.isBlank($VAR$)) {&#10;$END$&#10;}" description="Inserts &quot;if StringUtils.isBlank&quot; statement" toReformat="false" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
   </template>
 </templateSet>

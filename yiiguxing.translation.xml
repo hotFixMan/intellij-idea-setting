@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Shopping Marks" />
+      <item value="Shopping" />
+      <item value="shipping" />
       <item value="partition" />
       <item value="test Link" />
       <item value="physical Category" />
@@ -48,14 +51,11 @@
       <item value="ZERO" />
       <item value="Fail" />
       <item value="again" />
-      <item value="response" />
-      <item value="Decimal" />
-      <item value="DATE TIME PATTERN" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="327" />
-        <entry key="ENGLISH" value="328" />
+        <entry key="CHINESE" value="330" />
+        <entry key="ENGLISH" value="331" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="IRISH" value="1" />

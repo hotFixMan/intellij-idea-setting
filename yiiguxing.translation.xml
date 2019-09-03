@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Mule 4 Runtime plugin enables xml autocomletion, data weave autocompletion and xml schema validation." />
+      <item value="Gradianto aims to be easy on the eyes while being colorful and bright. Gradianto ships with the gradients found in nature. There is something for everyone" />
+      <item value="IntelliJ Light is a new light theme for IntelliJ-based IDEs starting 2019.3. This plugin is a preview of this theme and can be used with versions 2019.1 and 2019.2. The new light theme features two notable changes: A cleaner editor scheme with regular font styles instead of bolds A unified theme for Windows, macOS and Linux The goal of these changes is to make working with the code easier and to provide better UI support on all platforms. Note that the current light themes for Windows and macOS that mimic the OS look will still be available after the new theme is introduced." />
+      <item value="IntelliJ Light is a new light theme for IntelliJ-based IDEs starting 2019.3. This plugin is a preview of this theme and can be used with versions 2019.1 and 2019.2. The new light theme features two notable changes:&#10;A cleaner editor scheme with regular font styles instead of bolds&#10;A unified theme for Windows, macOS and Linux&#10;The goal of these changes is to make working with the code easier and to provide better UI support on all platforms. Note that the current light themes for Windows and macOS that mimic the OS look will still be available after the new theme is introduced." />
+      <item value="With the EduTools plugin, you can learn and teach programming languages such as Kotlin, Java, and Python in the form of coding tasks and custom verification tests right inside of JetBrains IntelliJ Platform based IDEs." />
       <item value="ixed an integration issue with the debugger where attaching it would incorrectly warn about not working properly" />
       <item value="ceil" />
       <item value="TEN MULTIPLY FIFTEEN" />
@@ -46,11 +51,6 @@
       <item value="Mile" />
       <item value="Delive" />
       <item value="Ordercreate Land Pair Order" />
-      <item value="successes" />
-      <item value="successed" />
-      <item value="failed" />
-      <item value="Consum" />
-      <item value="差集" />
     </histories>
     <option name="languageScores">
       <map>

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Could not find acceptable representation" />
       <item value="district" />
       <item value="province" />
       <item value="Mule 4 Runtime plugin enables xml autocomletion, data weave autocompletion and xml schema validation." />
@@ -50,12 +51,11 @@
       <item value="未加密" />
       <item value="Solve Chinese garbled problem" />
       <item value="lease Renewal Interval In Seconds" />
-      <item value="Mile" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="336" />
-        <entry key="ENGLISH" value="337" />
+        <entry key="CHINESE" value="337" />
+        <entry key="ENGLISH" value="338" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="IRISH" value="1" />

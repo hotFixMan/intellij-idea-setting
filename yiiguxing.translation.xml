@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Manifold plugs into Java to supplement it with game-changing features, from Type-safe Metaprogramming, Structural Typing, and Extension Methods to an integrated Template Engine and a Preprocessor. All fully supported in IntelliJ IDEA. Simply add Manifold to your project and begin taking advantage of it." />
+      <item value="GraphQL language support including tagged template literals in JavaScript and TypeScript." />
       <item value="Could not find acceptable representation" />
       <item value="district" />
       <item value="province" />
@@ -49,12 +51,10 @@
       <item value="SecureUtil from cn.hutool depend" />
       <item value="Uncode" />
       <item value="未加密" />
-      <item value="Solve Chinese garbled problem" />
-      <item value="lease Renewal Interval In Seconds" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="337" />
+        <entry key="CHINESE" value="338" />
         <entry key="ENGLISH" value="338" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AZERBAIJANI" value="1" />

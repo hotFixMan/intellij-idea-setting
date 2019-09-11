@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Statu" />
       <item value="introspect" />
       <item value="endpoint" />
       <item value="Error processing condition on com.oembedler.moon.graphql.boot.GraphQLJavaToolsAutoConfiguration.schemaParser" />
@@ -50,17 +51,16 @@
       <item value="warehouse" />
       <item value="The record based on id is empty" />
       <item value=" Assert" />
-      <item value="LifecycleException: Failed to start component [Connector[HTTP/1.1-8880]]" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="340" />
+        <entry key="CHINESE" value="341" />
         <entry key="ENGLISH" value="341" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BASQUE" value="1" />
-        <entry key="FRENCH" value="2" />
+        <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="SWEDISH" value="3" />

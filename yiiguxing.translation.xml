@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Digit" />
+      <item value="is Numeric" />
       <item value="auto Corporation Filter" />
       <item value="Statu" />
       <item value="introspect" />
@@ -49,13 +51,11 @@
       <item value="马帮镖局来单了" />
       <item value="finsh" />
       <item value="third Part" />
-      <item value="warehouse" />
-      <item value="The record based on id is empty" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="341" />
-        <entry key="ENGLISH" value="341" />
+        <entry key="CHINESE" value="342" />
+        <entry key="ENGLISH" value="343" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="IRISH" value="1" />

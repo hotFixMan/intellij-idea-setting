@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Use Ctrl+Shift+I (View | Quick Definition), to quickly review definition or content of the symbol at caret, without the need to open it in a new editor tab." />
       <item value="Pre Fix&quot;" />
       <item value="is Digit" />
       <item value="is Numeric" />
@@ -50,11 +51,10 @@
       <item value="@param ID the ID for a &lt;code&gt;TimeZone&lt;/code&gt;, either an abbreviation * such as &quot;PST&quot;, a full name such as &quot;America/Los_Angeles&quot;, or a custom * ID such as &quot;GMT-8:00&quot;. Note that the support of abbreviations is * for JDK 1.1.x compatibility only and full names should be used." />
       <item value="decode" />
       <item value="马帮镖局来单了" />
-      <item value="finsh" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="343" />
+        <entry key="CHINESE" value="344" />
         <entry key="ENGLISH" value="344" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AZERBAIJANI" value="1" />

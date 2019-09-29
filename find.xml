@@ -11,6 +11,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*" />
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
@@ -21,10 +22,10 @@
     <mask>*.vue</mask>
     <mask>*-dev.yml</mask>
     <mask>*.xml</mask>
-    <mask>*</mask>
     <mask>*.html</mask>
     <mask>pom.xml</mask>
     <mask>*.yml</mask>
     <mask>*.java</mask>
+    <mask>*</mask>
   </component>
 </application>

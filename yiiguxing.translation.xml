@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="retrieve" />
       <item value="Coordinate out of bounds!" />
       <item value="test photo" />
       <item value="contrast photo" />
@@ -50,12 +51,11 @@
       <item value="phone" />
       <item value="corresponding" />
       <item value="caravan" />
-      <item value="Failed to get config info by user token!" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="349" />
-        <entry key="ENGLISH" value="350" />
+        <entry key="CHINESE" value="350" />
+        <entry key="ENGLISH" value="351" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="IRISH" value="1" />

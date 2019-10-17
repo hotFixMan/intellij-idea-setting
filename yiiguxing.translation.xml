@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="OutOfMemoryError: Java heap space" />
+      <item value="Unexpected error occurred invoking async method" />
       <item value="The last packet successfully received from the server was 231 milliseconds ago. The last packet sent successfully to the server was 230 milliseconds ago." />
       <item value="Communications link failure" />
       <item value=": Unexpected error occurred invoking async method" />
@@ -49,13 +51,11 @@
       <item value="There was a problem with the instance info replicator" />
       <item value="current" />
       <item value="Corporation Id" />
-      <item value="INTERNAL SERVER ERROR" />
-      <item value="DATA SCOPE PARAMS ERROR" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="353" />
-        <entry key="ENGLISH" value="354" />
+        <entry key="CHINESE" value="355" />
+        <entry key="ENGLISH" value="356" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="IRISH" value="1" />

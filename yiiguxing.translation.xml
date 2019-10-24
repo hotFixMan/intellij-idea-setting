@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="construct" />
+      <item value="obtain T" />
+      <item value="divide" />
+      <item value="partition" />
       <item value="Join" />
       <item value="Communications link failure" />
       <item value="Communications link failure The last packet successfully received from the server was 19,410 milliseconds ago. The last packet sent successfully to the server was 0 milliseconds ago." />
@@ -44,18 +48,14 @@
       <item value="Shopping Marks" />
       <item value="Shopping" />
       <item value="shipping" />
-      <item value="partition" />
       <item value="test Link" />
       <item value="physical Category" />
       <item value="Break" />
-      <item value="upload Image And Crt Thumb Image" />
-      <item value="Canonical Path" />
-      <item value="continue" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="360" />
-        <entry key="ENGLISH" value="361" />
+        <entry key="CHINESE" value="364" />
+        <entry key="ENGLISH" value="365" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="IRISH" value="1" />

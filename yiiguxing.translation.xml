@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Array Index Out Of Bounds Exception" />
+      <item value="parallel Stream" />
       <item value="MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error." />
       <item value="single" />
       <item value="construct" />
@@ -49,13 +51,11 @@
       <item value="equal" />
       <item value="Shopping Marks" />
       <item value="Shopping" />
-      <item value="shipping" />
-      <item value="test Link" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="366" />
-        <entry key="ENGLISH" value="367" />
+        <entry key="CHINESE" value="368" />
+        <entry key="ENGLISH" value="369" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="IRISH" value="1" />

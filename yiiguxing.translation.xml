@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unable to allocate 129984KB bitmaps for parallel garbage collection for the requested 4159488KB heap." />
       <item value="generated" />
       <item value="Array Index Out Of Bounds Exception" />
       <item value="parallel Stream" />
@@ -50,12 +51,11 @@
       <item value="ceil" />
       <item value="TEN MULTIPLY FIFTEEN" />
       <item value="equal" />
-      <item value="Shopping Marks" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="369" />
-        <entry key="ENGLISH" value="370" />
+        <entry key="CHINESE" value="370" />
+        <entry key="ENGLISH" value="371" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="IRISH" value="1" />

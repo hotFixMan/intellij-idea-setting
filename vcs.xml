@@ -22,6 +22,10 @@
           <option name="url" value="http://14.23.153.5:8080" />
           <option name="userName" value="linjuncai" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://120.24.208.46:3000" />
+          <option name="userName" value="linjc" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>

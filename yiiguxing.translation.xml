@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Consign" />
+      <item value="record" />
       <item value="Order" />
       <item value="consignee" />
       <item value="Shutdown hook removed for: NFLoadBalancer-PingTimer-stocl-api-woms-server" />
@@ -49,13 +51,11 @@
       <item value="test photo" />
       <item value="contrast photo" />
       <item value="Absolute Path" />
-      <item value="digits" />
-      <item value="Unexpected error occurred invoking async method:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="394" />
-        <entry key="ENGLISH" value="395" />
+        <entry key="CHINESE" value="396" />
+        <entry key="ENGLISH" value="397" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="IRISH" value="1" />

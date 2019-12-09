@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Order" />
       <item value="consignee" />
       <item value="Shutdown hook removed for: NFLoadBalancer-PingTimer-stocl-api-woms-server" />
       <item value="Shutdown in progress" />
@@ -50,12 +51,11 @@
       <item value="Absolute Path" />
       <item value="digits" />
       <item value="Unexpected error occurred invoking async method:" />
-      <item value="Use Ctrl+Shift+I (View | Quick Definition), to quickly review definition or content of the symbol at caret, without the need to open it in a new editor tab." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="393" />
-        <entry key="ENGLISH" value="394" />
+        <entry key="CHINESE" value="394" />
+        <entry key="ENGLISH" value="395" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="IRISH" value="1" />

@@ -17,11 +17,11 @@
     <mask>*.properties</mask>
     <mask>*.vue</mask>
     <mask>*-dev.yml</mask>
-    <mask>*.xml</mask>
     <mask>*</mask>
     <mask>*.html</mask>
     <mask>pom.xml</mask>
     <mask>*.yml</mask>
+    <mask>*.xml</mask>
     <mask>*.java</mask>
   </component>
 </application>

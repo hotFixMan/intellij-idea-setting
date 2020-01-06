@@ -20,7 +20,8 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="tnc" value="throw new CommonException(CommonErrorType.COMMON_DATA_NULL);" description="throw new CommonException(CommonErrorType.COMMON_DATA_NULL);" toReformat="false" toShortenFQNames="true">
+  <template name="tnc" value="throw new StoException(&quot;$VAR$&quot;);" description="throw new StoException(&quot;&quot;);" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>

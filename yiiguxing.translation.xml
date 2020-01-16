@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Pressing the same shortcut after you have invoked Smart-type Completion when there's an array of expected type in context will suggest to get an element from this array." />
+      <item value="When in the Code Completion lookup, you can ease the search by filtering the list with the help of the &quot;camel words&quot; prefixes." />
+      <item value="When an autopopup completion is active, Ctrl+向下箭头 and Ctrl+向上箭头 will close it and move the caret down or up in the editor." />
+      <item value="IntelliJ IDEA allows you to search through the classes, files, tool windows, actions, settings, and symbols of your project by double pressing the Shift key." />
+      <item value="Enable the horizontal scrolling with the mouse wheel by holding the Shift key." />
       <item value="curve List" />
       <item value="begin Postcode First" />
       <item value="Batch" />
@@ -46,16 +51,11 @@
       <item value="partition" />
       <item value="Join" />
       <item value="Communications link failure" />
-      <item value="Communications link failure The last packet successfully received from the server was 19,410 milliseconds ago. The last packet sent successfully to the server was 0 milliseconds ago." />
-      <item value="dump" />
-      <item value="here is insufficient memory for the Java Runtime Environment to continue" />
-      <item value="OutOfMemoryError: Java heap space" />
-      <item value="Unexpected error occurred invoking async method" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="405" />
-        <entry key="ENGLISH" value="406" />
+        <entry key="CHINESE" value="407" />
+        <entry key="ENGLISH" value="407" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="IRISH" value="1" />

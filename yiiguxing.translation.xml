@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="请求单号不能为空" />
       <item value="Pressing the same shortcut after you have invoked Smart-type Completion when there's an array of expected type in context will suggest to get an element from this array." />
       <item value="When in the Code Completion lookup, you can ease the search by filtering the list with the help of the &quot;camel words&quot; prefixes." />
       <item value="When an autopopup completion is active, Ctrl+向下箭头 and Ctrl+向上箭头 will close it and move the caret down or up in the editor." />
@@ -50,12 +51,11 @@
       <item value="divide" />
       <item value="partition" />
       <item value="Join" />
-      <item value="Communications link failure" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="407" />
-        <entry key="ENGLISH" value="407" />
+        <entry key="CHINESE" value="408" />
+        <entry key="ENGLISH" value="408" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="IRISH" value="1" />

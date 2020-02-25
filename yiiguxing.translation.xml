@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="split By Whole Separator" />
       <item value="Delivery" />
       <item value="RESPONE" />
       <item value="exchange" />
@@ -50,12 +51,11 @@
       <item value="MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error." />
       <item value="single" />
       <item value="construct" />
-      <item value="obtain T" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="409" />
-        <entry key="ENGLISH" value="410" />
+        <entry key="CHINESE" value="410" />
+        <entry key="ENGLISH" value="411" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="IRISH" value="1" />

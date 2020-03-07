@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Could not find an appender named [filterInfo]. Did you define it below instead of above in the configuration file?" />
+      <item value="no applicable action for [appender-ref], current ElementPath is [[configuration][appender-ref]]" />
+      <item value="Filename pattern [./%d{yyyy-MM-dd}-%i.log.gz] contains an integer token converter, i.e. %i, INCOMPATIBLE with this configuration. Remove it." />
+      <item value="maxFileSize property is mandatory." />
       <item value="command denied to user 'sto'@'192.168.0.96' for table 'co_out_order'" />
       <item value="splited Array" />
       <item value="splited" />
@@ -47,15 +51,11 @@
       <item value="sorted" />
       <item value="MINUTES" />
       <item value="deserializer" />
-      <item value="Cause" />
-      <item value="Unable to allocate 129984KB bitmaps for parallel garbage collection for the requested 4159488KB heap." />
-      <item value="generated" />
-      <item value="Array Index Out Of Bounds Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="414" />
-        <entry key="ENGLISH" value="415" />
+        <entry key="CHINESE" value="418" />
+        <entry key="ENGLISH" value="419" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="IRISH" value="1" />

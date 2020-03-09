@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="acquire Token From Bucket" />
       <item value="Could not find an appender named [filterInfo]. Did you define it below instead of above in the configuration file?" />
       <item value="no applicable action for [appender-ref], current ElementPath is [[configuration][appender-ref]]" />
       <item value="Filename pattern [./%d{yyyy-MM-dd}-%i.log.gz] contains an integer token converter, i.e. %i, INCOMPATIBLE with this configuration. Remove it." />
@@ -50,12 +51,11 @@
       <item value="Multie" />
       <item value="sorted" />
       <item value="MINUTES" />
-      <item value="deserializer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="418" />
-        <entry key="ENGLISH" value="419" />
+        <entry key="CHINESE" value="419" />
+        <entry key="ENGLISH" value="420" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="IRISH" value="1" />

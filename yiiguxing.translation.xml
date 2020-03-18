@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Freight" />
+      <item value="Outbound Freight" />
       <item value="get All Company Of Eanble Warehouse" />
       <item value="fuzzy" />
       <item value="acquire Token From Bucket" />
@@ -49,13 +51,11 @@
       <item value="Form" />
       <item value="advanced" />
       <item value="&lt;p&gt;Fully functional, command-line driven application that illustrates how to connect to the NetSuite web services * and invoke operations.&lt;/p&gt; * &lt;p&gt;Please see the README on how to compile and run. Note that the {@code nsclient.properties} file must exist * in the installed root directory for this application to run.&lt;/p&gt; * &lt;p&gt;© 2019 NetSuite Inc. All rights reserved.&lt;/p&gt;" />
-      <item value="Invoker" />
-      <item value="Multie" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="421" />
-        <entry key="ENGLISH" value="422" />
+        <entry key="CHINESE" value="423" />
+        <entry key="ENGLISH" value="424" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="IRISH" value="1" />

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="&quot;static&quot; base class members should not be accessed via derived types" />
       <item value="fill" />
       <item value="stock Status" />
       <item value="present" />
@@ -50,11 +51,10 @@
       <item value="Order" />
       <item value="Shutdown hook removed for: NFLoadBalancer-PingTimer-stocl-api-woms-server" />
       <item value="Shutdown in progress" />
-      <item value="shine Upon" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="434" />
+        <entry key="CHINESE" value="435" />
         <entry key="ENGLISH" value="435" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AZERBAIJANI" value="1" />

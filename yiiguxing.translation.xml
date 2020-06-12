@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="single" />
       <item value="7" />
       <item value="Vertical" />
       <item value="wide Factor" />
@@ -50,12 +51,11 @@
       <item value="any Match" />
       <item value="while parsing a block mapping" />
       <item value="consignee" />
-      <item value="ACCESS_REFUSED - Login was refused using authentication mechanism PLAIN. For details see the broker logfile" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="441" />
-        <entry key="ENGLISH" value="440" />
+        <entry key="ENGLISH" value="441" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="IRISH" value="1" />
